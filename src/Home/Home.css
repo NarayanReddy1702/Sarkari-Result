@@ -1,0 +1,136 @@
+.home-sec {
+    width: 100%;
+    height: 70vh;
+}
+
+.animate-text{
+    width: 100%;
+    height: 50%;
+    row-gap: 1.2vh;
+    justify-content: start;
+    padding:3vh 20vh;
+
+}
+.link_animation{
+    width: 100%;
+    padding:0 3vh;
+}
+.link_animation a{
+    width: 100%;
+    font-size: 3vh;
+    color: black;
+
+    margin: 0.5vh;
+}
+.card-container {
+    width: 90%;
+    height: 50%;
+    flex-wrap: wrap;
+    column-gap: 10px;
+}
+
+.card-container .card {
+    width: 23%;
+    height: 39%;
+}
+
+.card h1 {
+
+    width: 90%;
+    height: 90%;
+    border-radius: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    font-size: 3.7vh;
+    padding: 0 3vh;
+}
+
+.some-more-details {
+    width: 100%;
+    gap: 3vh;
+    align-items: start;
+    justify-content: space-bet;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 26% !important;
+    border: 2px solid #c92e2e;
+}
+
+.result {
+    width: 100%;
+    background-color: rgb(201, 46, 46);
+    padding: 1.5vh 0;
+}
+
+.list-of-link {
+    position: relative;
+    row-gap: 3vh;
+    padding: 4vh 2vh;
+    height:100vh !important;
+    overflow: hidden;
+}
+.list-of-link .view-more{
+    position: absolute;
+    top: 97vh;
+    right: -14vh;
+    text-decoration: none;
+    color: black;
+    font-size: 2.5vh;
+}
+
+.list-of-link a {
+    width: 100%;
+    font-size: 2.5vh;
+    text-align: center;
+}
+
+.protect-part {
+    width: 100%;
+}
+
+.protect-part .protected-img {
+    width: 100%;
+}
+
+.protected-img img {
+    width: 7%;
+    margin-top: 4vh;
+}
+
+.protect-inform {
+    width: 90%;
+    border: 2px solid #c92e2e;
+    margin-top: 4vh;
+}
+
+.details {
+    width: 100%;
+}
+
+.details .heading {
+    width: 100%;
+    background-color: #c92e2e;
+}
+
+.details .heading h1 {
+    color: white;
+    padding: 1.4vh;
+}
+
+.protect-para {
+    padding: 1vh 2vh;
+    width: 100%;
+    padding-bottom: 3vh;
+}
+
+.protect-para p {
+    color: black;
+    text-align: center;
+    font-size: 2.5vh;
+    margin-top: 5vh;
+}
